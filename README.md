@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello! I'm Ethan (he/him) 👋
 
 
 🤓  I’m a career changer on the cusp of graduating from CodeClan and looking for my first position as a software developer!
